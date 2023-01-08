@@ -19,8 +19,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Get API"
-  introMessage: "Get status of all popular APIs you have integrated in your app"
+  introTitle: "Get status of all popular APIs you have integrated in your app"
+  introMessage: "Want to add an API to the list, or have a feedback, [create an issue on GitHub](https://github.com/gitcommitshow/issues/new)"
   navbar:
     - title: Status
       href: /
